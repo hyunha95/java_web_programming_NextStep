@@ -1,19 +1,19 @@
 package calculator;
 
 public class Calculator {
-	int add(int i, int j) {
+	public int add(int i, int j) {
 		return i + j;
 	}
 
-	int substract(int i ,int j) {
+	public int substract(int i ,int j) {
 		return i - j;
 	}
 
-	int multiply(int i, int j) {
+	public int multiply(int i, int j) {
 		return i * j;
 	}
 
-	int divide(int i, int j) {
+	public int divide(int i, int j) {
 		return i / j;
 	}
 
